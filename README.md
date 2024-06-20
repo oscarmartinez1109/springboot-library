@@ -10,6 +10,18 @@ Este proyecto es una aplicación de consola desarrollada con Spring Boot que per
 4. **Listar Autores Vivos en un Determinado Año:** Muestra todos los autores que estaban vivos en un año específico.
 5. **Listar Libros por Idioma:** Muestra todos los libros registrados que están en un idioma específico.
 
+## Capturas de Pantalla
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/a7a7a643-2782-41f1-85fe-7f650d99942b)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/63bfa2d3-a1b5-493b-a20e-9c5062fab310)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/a176d1de-ffc8-4848-9e29-bfe142821efb)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/42ca178d-bf8e-44a8-980e-01595e107e35)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/529b2ee0-9358-4713-a323-b0b34469c8b1)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/79916716-fd75-497b-8593-b906288e8ba4)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/bf5744e1-4413-4144-a5e5-c514756480b5)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/9d45c7fe-02a8-44d8-9356-8a69a3ee3c6d)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/960fab56-2495-4aa8-9ad9-2ae9e8bba205)
+![image](https://github.com/oscarmartinez1109/springboot-library/assets/158121224/cd39644e-5983-4a2d-b8b4-f757491900a0)
+
 ## Requisitos Previos
 
 - Java 17 o superior
