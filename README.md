@@ -32,7 +32,7 @@ Este proyecto es una aplicación de consola desarrollada con Spring Boot que per
 1. Clonar el repositorio:
     ```bash
     git clone https://github.com/oscarmartinez1109/springboot-library.git
-    cd tu-repositorio
+    cd springboot-library
     ```
 
 2. Construir el proyecto con Maven:
